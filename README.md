@@ -1,5 +1,12 @@
 # lgu-healthcare-system
-a web application used by LGU health workers to check health consumable supplies, free medicines and checkup appointments by the barangay residents!
+A web application used by LGU health workers to check health consumable supplies, free medicines and checkup appointments by the barangay residents!
+
+Technologies  used :- 
+HTML  
+CSS
+JAVASCRPT
+PHP 
+MYSQL
 
 ![image](https://github.com/jvfaeldon20/lgu-healthcare-system/assets/61104555/bc2cf4ce-a637-4b54-8eeb-79e3efcc6820)
 ![image](https://github.com/jvfaeldon20/lgu-healthcare-system/assets/61104555/bb4ba1de-664c-4604-bed5-b0fa5b1c8a0f)
